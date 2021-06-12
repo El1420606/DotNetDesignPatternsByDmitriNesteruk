@@ -19,6 +19,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Builder", "Builder", "{00E3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlElementBuilder", "HtmlElementBuilder\HtmlElementBuilder.csproj", "{77BE26C6-19EB-4133-A883-371EDA3D3591}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacetedBuilder", "FacetedBuilder\FacetedBuilder.csproj", "{1485B2C4-08CA-4311-9B31-8891897AA4A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,10 @@ Global
 		{77BE26C6-19EB-4133-A883-371EDA3D3591}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77BE26C6-19EB-4133-A883-371EDA3D3591}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77BE26C6-19EB-4133-A883-371EDA3D3591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1485B2C4-08CA-4311-9B31-8891897AA4A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1485B2C4-08CA-4311-9B31-8891897AA4A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1485B2C4-08CA-4311-9B31-8891897AA4A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1485B2C4-08CA-4311-9B31-8891897AA4A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -60,6 +66,7 @@ Global
 		{97A22A8C-29A9-4A12-940A-AED86FBA6917} = {05B08230-CBF2-433C-A35A-5B351C1CF3A8}
 		{CA8CB93D-93AD-4BC2-A141-664092CB985D} = {05B08230-CBF2-433C-A35A-5B351C1CF3A8}
 		{77BE26C6-19EB-4133-A883-371EDA3D3591} = {00E39AB8-A28C-4381-AED5-861A4C855CFA}
+		{1485B2C4-08CA-4311-9B31-8891897AA4A0} = {00E39AB8-A28C-4381-AED5-861A4C855CFA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E5907DD5-4285-4339-A361-1E5273D56B2B}
